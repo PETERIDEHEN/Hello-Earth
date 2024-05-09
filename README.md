@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @wiilly02 
-- 👀 I’m interested in data and it's very essence
-- 🌱 I’m currently learning Python, Power BI and MySql
-- 💞️ I’m looking to collaborate on Varoius projects that span by interest
-- 📫 How to reach me my email @ artwasdcase@gmail.com 
 
-<!---
-PETERIDEHEN/PETERIDEHEN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Modern Full Stack ECommerce Application with Stripe & Sanity
+![TrustEtronicsABC]
+
+## CW2 submission
+
+**A fully responsive Modern Full Stack Ecommerce application with Payments functionality**. With Modern design, animations, the ability to add and edit products on the go using a CMS, all advanced cart functionalities, and the complete integration with Stripe so that you can cover REAL payments.
+
+
